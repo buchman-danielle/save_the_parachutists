@@ -13,7 +13,7 @@ The goal of the game is to save the parachutists from falling into the water by 
 * Parachutists are droppend randomly and weighted (see globals)
 * There can be more than one parachutist at the air at a given, and the number of maximun parachutists in the air is defined (see globals)
 
-## Repository contains the following:
+## Repository contains the following
 * Graphics - holds all graphic elements displayed and its functionality 
 * Images - all files provided for display
 * Lib - contains global file for now, to hold all global constants
